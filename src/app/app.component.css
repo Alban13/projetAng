@@ -1,0 +1,4 @@
+app-timer.timeOver{
+    border: 5px dashed red;
+    transition: border 500ms;
+}
